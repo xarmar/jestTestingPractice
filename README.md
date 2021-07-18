@@ -1,2 +1,2 @@
 # jestTestingPractice
-Just practising TDD
+- Learning and practising mocking with Jest.
