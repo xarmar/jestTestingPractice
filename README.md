@@ -1,0 +1,2 @@
+# jestTestingPractice
+Just practising TDD
