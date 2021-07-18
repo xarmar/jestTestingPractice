@@ -1,0 +1,25 @@
+{
+  "name": "jesttestingpractice",
+  "version": "1.0.0",
+  "description": "Just to practice TDD",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xarmar/jestTestingPractice.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Xavier Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xarmar/jestTestingPractice/issues"
+  },
+  "homepage": "https://github.com/xarmar/jestTestingPractice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
